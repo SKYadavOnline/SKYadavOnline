@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Santosh Kumar Yadav
 
-<!--
-**SKYadavOnline/SKYadavOnline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Full Stack Developer | Programming Tutor  
+🚀 Passionate about building scalable web apps  
+📚 Teaching programming & mentoring developers  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: PHP, JavaScript, TypeScript, SQL 
+- Frontend: React, HTML5, CSS3, Bootstrap 5, Tailwind CSS
+- Backend: Laravel, Livewire, ExpressJS, NodeJS
+-  Libraries:  jQuery, ReactJS
+- Database: MongoDB, MySQL, Oracle
+- Tools: Git, GitHub, Bitbucket, Postman
+- Concepts: REST APIs, MVC Architecture 
+
+---
+
+## 📊 GitHub Stats
+(Add GitHub stats cards)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: @SKYadavOnline
+- Instagram: @SKYadavOnline
+- GitHub: https://github.com/SKYadavOnline
+- Facebook: @SKYadavOnline
+- Instagra: @SKYadavOnline
