@@ -56,17 +56,17 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@SKYadavOnline&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYadavOnline&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 Portfolio Website – Personal branding website  
-- 💬 Chat App – Real-time messaging application  
-- 🛒 E-Commerce App – Full-stack shopping platform  
-- 📚 Learning Platform – Programming tutorial system  
+- Japware – A web application for photographers and designers.  
+- Savemax – A real estate platform providing hassle-free property deals at competitive prices.  
+- Online Examination System – A platform designed to help students prepare for online exams.
+- Easy Day Online Shopping  – An e-commerce Platform.   
 
 ---
 
@@ -82,8 +82,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: SKYadavOnline24.7@gmail.com
-📱 WhatsApp: +91-9129114318 
+- 📧 Email: SKYadavOnline24.7@gmail.com
+- 📱 WhatsApp: +91-9129114318 
 
 
 ---
