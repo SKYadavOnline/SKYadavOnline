@@ -18,9 +18,10 @@
 ---
 
 ## 📊 GitHub Stats
-(Add GitHub stats cards)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKYadavOnline&show_icons=true&theme=tokyonight)
 
 ---
+
 
 ## 🌐 Connect with me
 - LinkedIn: @SKYadavOnline
